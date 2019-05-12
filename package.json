@@ -1,0 +1,15 @@
+{
+  "name": "songanalyzer",
+  "version": "1.0.0",
+  "description": "Using IBM Watsons to check a song mood by it lyric",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Guilherme de Assis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0"
+  }
+}
